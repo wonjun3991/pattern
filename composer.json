@@ -1,0 +1,22 @@
+{
+  "name": "wonjun.choi/pattern",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "WonjunChoi\\Pattern\\": "src/",
+      "Test\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "wonjun",
+      "email": "wonjun.choi@meshkorea.net"
+    }
+  ],
+  "require": {
+    "php": "8.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
